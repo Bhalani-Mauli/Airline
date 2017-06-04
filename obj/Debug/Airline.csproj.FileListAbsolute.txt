@@ -1,0 +1,13 @@
+E:\sem 6\Airline\Airline\obj\Debug\Airline.Admin.resources
+E:\sem 6\Airline\Airline\obj\Debug\Airline.airbook.resources
+E:\sem 6\Airline\Airline\obj\Debug\Airline.Login1.resources
+E:\sem 6\Airline\Airline\obj\Debug\Airline.Payment.resources
+E:\sem 6\Airline\Airline\obj\Debug\Airline.Properties.Resources.resources
+E:\sem 6\Airline\Airline\obj\Debug\Airline.Signup1.resources
+E:\sem 6\Airline\Airline\obj\Debug\Airline.csproj.GenerateResource.Cache
+E:\sem 6\Airline\Airline\bin\Debug\Airline.exe.config
+E:\sem 6\Airline\Airline\bin\Debug\Airline.exe
+E:\sem 6\Airline\Airline\bin\Debug\Airline.pdb
+E:\sem 6\Airline\Airline\obj\Debug\Airline.exe
+E:\sem 6\Airline\Airline\obj\Debug\Airline.pdb
+E:\sem 6\Airline\Airline\obj\Debug\Airline.csprojResolveAssemblyReference.cache
